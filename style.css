@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size: 6em;
+    letter-spacing: 10px;
+}
+h2{
+    font-size: 4em;
+}
+h3{
+    font-size: 2em;
+}
+h4{
+    font-size: 2em;
+}
+section p,image{
+    padding: 10px;
+}
+.cartoons{
+    color: black;
+    padding: 70px;
+}
+#tomandjerry{
+    background-color: tomato;
+    }
+    #shinchan{
+    background-color: yellow;
+    }
+    #pokemon{
+    background-color: turquoise;
+    }
+    header{
+    background-image: url("http://i1.faceprep.in/cartoon-background.png");
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    padding: 200px;
+    }
